@@ -1,9 +1,3 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /*!
     * Start Bootstrap - Agency v6.0.2 (https://startbootstrap.com/template-overviews/agency)
     * Copyright 2013-2020 Start Bootstrap
@@ -60,4 +54,3 @@
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
 })(jQuery); // End of use strict
-
